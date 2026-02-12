@@ -1,0 +1,50 @@
+> Tactical and Conceptual folders can hold optional expanded notes. Most entries stay in INDEX.md.
+
+---
+
+## Ready-Made Lane Names
+
+- **Tactical / Operational** → Real-world moves, projects, checks  
+- **Conceptual / Framework** → Reusable models, schemas, insights  
+- **Optional Tags:** Checkpoint, Reusable, Impact, Draft  
+
+---
+
+## Admission Criteria for Entries
+
+An entry qualifies if it meets at least one of these:
+
+1. **Structural Insight** – Changes how you model or think about a subject  
+2. **Decision Impact** – Affects real-world outcomes (money, project, timing)  
+3. **Framework Creation** – Reusable tool, rule, or lens  
+4. **Entropy Reduction** – Resolves confusion, compresses complexity  
+
+> Must be reality-checked; no raw emotional spirals or hallucinations.
+
+---
+
+## INDEX.md Usage
+
+- **Format:** `[ID] | Lane | Subject | Core Insight/Action | Status | Extra Tag`  
+- **Lane:** Tactical / Conceptual  
+- **Status:** Open / Stable / Active / Parked  
+- **Extra Tag:** Optional, e.g., checkpoint date, reusable, impact  
+
+**Rules:**
+- Maximum **7 active entries** at a time (merge, archive, or downgrade if exceeded)  
+- Most entries stay **one-line in INDEX.md**; expanded files only if necessary  
+- Increment ID sequentially: SOD-001, SOD-002, SOD-003…  
+
+---
+
+## Workflow — Daily Add (<30 sec)
+
+1. Qualify the thought (see Admission Criteria)  
+2. Compress it into one line using the INDEX.md template  
+3. Add it to INDEX.md  
+4. Optional: create detailed file in Tactical/Conceptual if needed  
+5. Commit and save  
+
+---
+
+## Starter INDEX.md Entries
