@@ -1,0 +1,16 @@
+SnailsOnDeck/
+│
+├─ Tactical/
+│   └─ README.md        <- Optional: lane rules, cap of 7 active entries
+│
+├─ Conceptual/
+│   └─ README.md        <- Optional: framework rules, maturity markers
+│
+└─ INDEX.md             <- One-line entry table
+# SnailsOnDeck INDEX
+# Philosophy: Prevent hallucinations
+# Format: [ID] | Lane (Tactical/Conceptual) | Subject | Core Insight/Action | Status | Extra Tag
+
+SOD-001 | Conceptual | Stream Normalization | Separate tables first, then meta-index; reduces entropy | Open | Reusable
+SOD-002 | Tactical | AI Data Retention | Confirmed conversations aren’t public; anxiety ≠ risk | Stable | Checkpoint 2/20
+[ID] | Lane | Subject | Core Insight/Action | Status | Extra Tag
