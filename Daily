@@ -1,0 +1,20 @@
+# 🐌 SnailsOnDeck INDEX
+**Philosophy:** Prevent hallucinations  
+**Format:** [ID] | Lane (Tactical/Conceptual) | Subject | Core Insight/Action | Status | Extra Tag
+
+---
+
+# Existing Entries (Examples)
+SOD-001 | Conceptual | Stream Normalization | Separate tables first, then meta-index; reduces entropy | Open | Reusable
+SOD-002 | Tactical | AI Data Retention | Confirmed conversations aren’t public; anxiety ≠ risk | Stable | Checkpoint 2/20
+
+---
+
+# Next Entries
+# Add new thoughts below in the same format. Keep total active entries ≤7.
+# ID → increment sequentially (SOD-003, SOD-004...)
+# Lane → Tactical / Conceptual
+# Subject → short, descriptive
+# Core Insight/Action → 1–2 line compressed summary
+# Status → Open / Stable / Active / Parked
+# Extra Tag → optional, e.g., checkpoint, reusable, impact[ID] | Lane | Subject | Core Insight/Action | Status | Extra Tag
