@@ -1,0 +1,18 @@
+from cerl_compiler import compile_english
+from cerl_evaluator import evaluate_english_clause
+
+def main():
+    text = "If runtime is at least 30 seconds, pay 50% of gross revenue, otherwise nothing"
+
+    context = {
+        "asset.runtime_seconds": 45,
+        "gross_revenue": 200
+    }
+
+    result = evaluate_english_clause(text, context)
+
+    print("=== RESULT ===")
+    print(result)
+
+if __name__ == "__main__":
+    main()
